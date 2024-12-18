@@ -12,7 +12,7 @@ This project provides a simple REST API to manage app information. It includes e
 
 1. **Clone the repository:**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Vishalanshuman/Adstack_Media.git
    cd myapi
    ```
 
