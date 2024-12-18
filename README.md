@@ -64,6 +64,7 @@ The server will start at `http://127.0.0.1:8000/`.
 - **Description:** Retrieves app details by ID.
 - **Response Example:**
    ```json
+   
    {
      "id": 1,
      "app_name": "SampleApp",
